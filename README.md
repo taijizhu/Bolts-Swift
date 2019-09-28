@@ -2,11 +2,11 @@
 
 ![Platforms][platforms-svg]
 ![Swift Version][swift-version-svg]
+[![License][license-svg]][license-link]
 
 [![Podspec][podspec-svg]][podspec-link]
 [![Carthage compatible][carthage-svg]](carthage-link)
-[![Swift Package Manager compatible](swiftpm-svg)](swiftpm-link)
-[![License][license-svg]][license-link]
+[![Swift Package Manager compatible][swiftpm-svg]](swiftpm-link)
 
 [![Build Status][build-status-svg]][build-status-link]
 [![Coverage Status][coverage-status-svg]][coverage-status-link]
